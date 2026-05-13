@@ -1,0 +1,7 @@
+Para tener control de lo que se hace, saber organizar
+los archivos.
+Nos sirve para desarrollar proyectos.
+Sirve para llevar secuencia de lo que se crea.
+Es importante porque sabemos como han sido los pasos
+y si pasa algo saber desde donde debemos organizar 
+de nuevo.
